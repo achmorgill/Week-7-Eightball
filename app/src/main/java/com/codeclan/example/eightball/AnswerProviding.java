@@ -6,6 +6,4 @@ package com.codeclan.example.eightball;
 
 public interface AnswerProviding {
     String getAnswer();
-
-    }
 }
